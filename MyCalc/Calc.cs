@@ -12,5 +12,10 @@ namespace MyCalc
         {
             return x * y;
         }
+
+        public int Subt(int x, int y)
+        {
+            return x - y;
+        }
     }
 }
